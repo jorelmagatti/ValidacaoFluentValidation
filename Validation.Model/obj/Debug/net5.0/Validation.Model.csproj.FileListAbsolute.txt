@@ -1,0 +1,12 @@
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\bin\Debug\net5.0\Validation.Model.deps.json
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\bin\Debug\net5.0\Validation.Model.dll
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\bin\Debug\net5.0\ref\Validation.Model.dll
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\bin\Debug\net5.0\Validation.Model.pdb
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.csproj.AssemblyReference.cache
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.AssemblyInfoInputs.cache
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.AssemblyInfo.cs
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.csproj.CoreCompileInputs.cache
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.dll
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\ref\Validation.Model.dll
+C:\Users\jorel\source\repos\FluentValidationAPI\Validation.Model\obj\Debug\net5.0\Validation.Model.pdb
